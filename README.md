@@ -1,4 +1,4 @@
-# C-_large_homewor
+# C-_large_homework
 This is a big assignment for my C++ programming class
 
 And this is description of my assignment
