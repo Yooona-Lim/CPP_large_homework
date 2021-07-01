@@ -390,14 +390,3 @@ int Card::return_amount() const {
     return amount;
 }
 
-//char *Card::return_record(int i) {
-//    return record[i];
-//}
-//
-//char *Card::return_id() {
-//    return id;
-//}
-//
-//char *Card::return_card_id() {
-//    return card_id;
-//}

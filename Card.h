@@ -29,9 +29,6 @@ public:
 
 
     int return_amount() const;
-//    char* return_record(int);
-//    char* return_id();
-//    char* return_card_id();
 
     class None_people:exception{};
     class Exist_people:exception{};
