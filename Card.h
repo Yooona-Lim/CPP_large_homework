@@ -26,8 +26,6 @@ public:
     void search_record(char*);    //寻找消费记录
     bool search_account(char *, fstream &);  //搜索、判断账户是否存在
     void sort_amount();//按金额排序，用动态数组.
-
-
     int return_amount() const;
 
     class None_people:exception{};
